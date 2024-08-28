@@ -10,6 +10,7 @@ Welcome to **BookNook**! This repository is a treasure trove of books spanning v
 - 🚀 **Machine Learning**
 - 🔧 **DevOps**
 - 📱 **Mobile Development**
+- 🛠️ **Low-Level Programming**
 
 ## 🎯 Purpose
 
@@ -24,6 +25,7 @@ Explore a wide range of topics:
 - **Software Development**: Best practices, design patterns, and more.
 - **Web Development**: Frontend, backend, and everything in between.
 - **Data Science**: Data analysis, visualization, and big data.
+- **Low-Level Programming**: Master C, assembly, and systems programming.
 
 ## 🚀 Getting Started
 
